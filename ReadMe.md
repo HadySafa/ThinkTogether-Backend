@@ -71,7 +71,7 @@ Install JWT Using Composer
 ```
 
 ## Future Work
-- Implement token-based authentication for secure user sessions.
+- Implement token-based authentication and authorization.
 - Sanitize user input to prevent XSS attacks.
 ## Note
 
